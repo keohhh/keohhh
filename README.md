@@ -23,7 +23,7 @@ I love learning about how operating systems work, and I've been craving a lot le
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
 ## Currently Learning
-I'm currently learning Rust and Git, as proposed by my friend [https://github.com/Proozz321] that kept glazing both (with good reason) until I decided to give them a go.
+I'm currently learning Rust and Git, as proposed by my friend [@Proozz321](https://github.com/Proozz321) that kept glazing both (with good reason) until I decided to give them a go.
 Also learning other things such as: PostgreSQL, GitHub and Node.js.
 
 [![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
