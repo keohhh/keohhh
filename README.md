@@ -46,7 +46,11 @@ I've gotten myself into the Linux ecosystem after seeing so many cool distros an
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 
 ## Projects
-  Currently not working on any projects, but will start on some pretty soon!
+### [Nim](https://github.com/Proozz321/Nim)
+A terminal app written in Rust for sending encrypted messages to a friend. You generate a key pair, swap public keys, and the program does the rest: X25519 for the shared secret and ChaCha20-Poly1305 to encrypt the message. Built together with [@Proozz321](https://github.com/Proozz321) to practice Rust and Git.
+
+[![Rust](https://skillicons.dev/icons?i=rust&theme=dark)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
 
 ## Contact
 If you want to contact me feel free to do so on 
